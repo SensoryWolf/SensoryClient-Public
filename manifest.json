@@ -1,0 +1,16 @@
+{
+	"format_version": 2,
+	"header": {
+		"description": "Most Of the Files are edited from pada client Be sure to sub to Pada ios the creator of the client i edited",
+		"name": "§4Sensory§rClient",
+		"uuid": "f53841ea-a2c5-4b93-8089-2e6291c6e8c7",
+		"version": [5, 0, 0],
+		"min_engine_version": [1, 14, 0]
+	},
+	"modules": [{
+		"description": "Most Of the Files are edited from pada client Be sure to sub to Pada ios the creator of the client i edited",
+		"type": "resources",
+		"uuid": "3a312493-e30f-4752-b934-2cd71f3de93a",
+		"version": [5, 0, 0]
+	}]
+}
